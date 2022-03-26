@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LeeYeEun/Desktop/ye/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%98%88%EC%98%88/mlruns/0/a377c302e58744708071af158760b4f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a377c302e58744708071af158760b4f3
+run_uuid: a377c302e58744708071af158760b4f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1648278344200
+status: 1
+tags: []
+user_id: LeeYeEun
